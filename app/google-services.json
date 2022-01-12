@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215939078033",
+    "firebase_url": "https://perguntaspoo.firebaseio.com",
+    "project_id": "perguntaspoo",
+    "storage_bucket": "perguntaspoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215939078033:android:36fa13581037f635",
+        "android_client_info": {
+          "package_name": "com.example.pooquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215939078033-utg6ada130g1bqrqs7lojeh3r8847vs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pooquiz",
+            "certificate_hash": "def8352f743e5cbbf2392d1405889f7c23e11b9f"
+          }
+        },
+        {
+          "client_id": "215939078033-mpq9aft7i9lkj41rm1108plabjbo2e27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnClHH2Zl7eUb3yK6DeIjMINC4nOd48G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215939078033-mpq9aft7i9lkj41rm1108plabjbo2e27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

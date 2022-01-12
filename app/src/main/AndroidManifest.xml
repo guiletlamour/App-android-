@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pooquiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Polimorfismo.QuestoesPoli"></activity>
+        <activity android:name=".Polimorfismo.Polimorfismo" />
+        <activity android:name=".Heranca.questHeranca" />
+        <activity android:name=".Heranca.heranca" />
+        <activity android:name=".Encapsulamento.QuestoesEncapsulamento" />
+        <activity android:name=".Encapsulamento.Encapsulamento" />
+        <activity android:name=".AbastracaoResposta" />
+        <activity android:name=".Abstracao.QuestAbstracao" />
+        <activity android:name=".Abstracao.AbstracaoIntroducao" />
+        <activity android:name=".Pilares" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

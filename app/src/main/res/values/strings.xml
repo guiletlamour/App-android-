@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PooQuiz</string>
+    <string name="title_activity_questoes_abstracao">QuestoesAbstracao</string>
+    <string name="refazer">Refazer</string>
+</resources>
